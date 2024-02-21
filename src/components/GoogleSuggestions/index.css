@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.inputContainer {
+  display: flex;
+  background-color: #ffffff;
+}
+.inputEl {
+  width: 85vw;
+}
+.cardContainer {
+  background-color:  #ffffff;
+}
